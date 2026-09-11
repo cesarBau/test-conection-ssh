@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Credenciales de nodos SSH
+nodes.txt
+
+.env
+.vscode/
